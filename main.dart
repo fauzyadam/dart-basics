@@ -1,7 +1,23 @@
 void main(){
-  //Fauzia  addition of two integers Sum();
-  print(sum(9, 10));
+  //Strings
+  String name = "kofi" + " " + "kamil";
+  print(name);
+// Boolean
+bool isLoading = true;
+print(false);
+
+// List
+List ages = [ 20, 5, 15,];
+print(ages);
+//Map
+
+// const
+const fauzak = "fauzia";
+
+
+//operators
+  
 }
-int sum(int firstNum, int secondNum){
-  return firstNum + secondNum;
-}
+
+  
+  
